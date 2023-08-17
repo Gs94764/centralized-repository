@@ -29,17 +29,7 @@ public static void main(String[] args) {
 	System.out.println(aaa.d);
 	System.out.println(aaa.e);
 	
-	Firstapporch bbb=new Firstapporch(); // this is object 
-	bbb.a=13; //1
-	bbb.b=14; //2
-	bbb.c=15; //3
-	bbb.d=16; // 4
-	bbb.e=17; //5
-	System.out.println(bbb.a);
-	System.out.println(bbb.b);
-	System.out.println(bbb.c);
-	System.out.println(bbb.d);
-	System.out.println(bbb.e);
+
 	
 	
 }

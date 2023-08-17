@@ -29,13 +29,7 @@ public static void main(String[] args)
 	System.out.println(ob1.d);
 	System.out.println(ob1.e);
 	
-	Secoundapproch1 ob3=new Secoundapproch1();
-	ob.method1(202,111,303,304,305); // 2 st call 
-	System.out.println(ob3.a);
-	System.out.println(ob3.b);
-	System.out.println(ob3.c);
-	System.out.println(ob3.d);
-	System.out.println(ob3.e);
+	
 }
 
 }

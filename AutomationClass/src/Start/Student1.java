@@ -43,7 +43,7 @@ public class Student1 {
 		Student1 ob2=new Student1(2,3,4,4);
 		Student1 ob3=new Student1();
 		Student1 ob4=new Student1(2,2,2);
-		Student1 ob5=new Student1(2,2,2,5);
+	
 		
 	
 	}

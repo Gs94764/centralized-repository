@@ -18,8 +18,7 @@ public static void main(String[] args)
 	System.out.println(abc.name);
 	abc.name=199666;
 	System.out.println(abc.name);	
-	abc.name=188;
-	System.out.println(abc.name);	
+	
 }
 }
 
