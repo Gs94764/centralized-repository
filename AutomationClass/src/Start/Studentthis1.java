@@ -28,7 +28,7 @@ public class Studentthis1 {
 	}
 	public Studentthis1(int a, int b, int c, int d)
 	{
-		this(2,2,2);
+		
 		System.out.println("four perametrized");
 	}
 	public static void main(String[] args) {

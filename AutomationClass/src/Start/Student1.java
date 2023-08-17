@@ -31,6 +31,11 @@ public class Student1 {
 	{
 		System.out.println("four perametrized");
 	}
+			public Student1(int a, int b, int c, int d, int e)
+			{
+				System.out.println("four perametrized");
+		}
+	
 	public static void main(String[] args) {
 		Student1 ob=new Student1(2);
 		// gaurav.abc(); // we need to call it 
@@ -38,6 +43,7 @@ public class Student1 {
 		Student1 ob2=new Student1(2,3,4,4);
 		Student1 ob3=new Student1();
 		Student1 ob4=new Student1(2,2,2);
+		Student1 ob5=new Student1(2,2,2,5);
 		
 	
 	}
